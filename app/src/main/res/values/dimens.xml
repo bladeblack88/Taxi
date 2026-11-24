@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vc_spacing_xs">4dp</dimen>
+    <dimen name="vc_spacing_sm">8dp</dimen>
+    <dimen name="vc_spacing_md">16dp</dimen>
+    <dimen name="vc_spacing_lg">24dp</dimen>
+    <dimen name="vc_spacing_xl">32dp</dimen>
+    <dimen name="vc_card_radius">18dp</dimen>
+    <dimen name="vc_button_height">52dp</dimen>
+    <dimen name="vc_touch_target_min">48dp</dimen>
+</resources>
