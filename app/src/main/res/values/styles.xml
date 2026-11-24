@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ViceCity.Card">
+        <item name="android:background">@drawable/vc_card_background</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+    <style name="ViceCity.Button.Primary">
+        <item name="android:background">@drawable/vc_primary_button_background</item>
+        <item name="android:textColor">@color/vc_text_primary</item>
+        <item name="android:minHeight">@dimen/vc_button_height</item>
+        <item name="android:paddingStart">20dp</item>
+        <item name="android:paddingEnd">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:allCaps">false</item>
+    </style>
+</resources>
