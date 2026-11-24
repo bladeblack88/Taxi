@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="vc_background">#090D1A</color>
+    <color name="vc_surface">#141B2B</color>
+    <color name="vc_surface_raised">#1C263A</color>
+    <color name="vc_pink">#FF3D9A</color>
+    <color name="vc_coral">#FF765E</color>
+    <color name="vc_cyan">#35D7E8</color>
+    <color name="vc_text_primary">#F6F7FB</color>
+    <color name="vc_text_secondary">#A6B0C3</color>
+    <color name="vc_divider">#2B3850</color>
+    <color name="vc_success">#49D6A2</color>
+    <color name="vc_danger">#FF5B6E</color>
+</resources>
